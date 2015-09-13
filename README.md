@@ -1,2 +1,1 @@
-# MusicSync-Android-App
-MusicSync-Android App
+I made this Music Sync Android App for Computer Networking class during my Master's degree in Texas A&M. We were a team of two students. This was my first hands on Android development. Our aim was to use concept of networking in android app. This app syncs play and pause of music among phones connected through Wi-Fi to the server. This is achieved through socket programming in Java. If one phone plays the music, it starts on other connected phones also, similarly if one phone pauses the music, it pauses on other connected phones.
